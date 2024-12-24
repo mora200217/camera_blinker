@@ -1,0 +1,16 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/usr/local/Caskroom/miniforge/base/envs/humble/include/**",
+        "/Users/amoralesma/Documents/projects/camera_led_blinker/src/camera_led_blinker/include/**"
+      ],
+      "name": "ROS"
+    }
+  ],
+  "version": 4
+}
